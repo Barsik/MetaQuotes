@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaQuotes.App", "MetaQuotes.App\MetaQuotes.App.csproj", "{7F51268F-AB36-44DF-8030-DCA2962236BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaQuotes.Geobase", "MetaQuotes.Geobase\MetaQuotes.Geobase.csproj", "{B62C8DF5-531F-483B-B573-F8CB74BD4690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaQuotes.Tests", "MetaQuotes.Tests\MetaQuotes.Tests.csproj", "{9B669506-DBB2-49C2-AC83-F2C22F695F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F51268F-AB36-44DF-8030-DCA2962236BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F51268F-AB36-44DF-8030-DCA2962236BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F51268F-AB36-44DF-8030-DCA2962236BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F51268F-AB36-44DF-8030-DCA2962236BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62C8DF5-531F-483B-B573-F8CB74BD4690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62C8DF5-531F-483B-B573-F8CB74BD4690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62C8DF5-531F-483B-B573-F8CB74BD4690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62C8DF5-531F-483B-B573-F8CB74BD4690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B669506-DBB2-49C2-AC83-F2C22F695F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B669506-DBB2-49C2-AC83-F2C22F695F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B669506-DBB2-49C2-AC83-F2C22F695F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B669506-DBB2-49C2-AC83-F2C22F695F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
